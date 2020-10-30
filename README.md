@@ -1,4 +1,9 @@
+Footer
+
 Intermatic-PE653
+
+
+2nd edit
 SmartThings Z-Wave Device Type for the Intermatic PE653 Pool Controller
 
 Overview:
